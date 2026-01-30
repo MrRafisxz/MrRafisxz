@@ -14,7 +14,7 @@
       <p><b>Aura:</b> Minimalismo | Dark Mode | Harmonia Cromática</p>
     </td>
     <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y5bmRqaWdqdDRoZ3R4bnlndDRoZ3R4bnlndDRoZ3R4bnlndDRoZ3R4JmFjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="300" style="border-radius: 20px;">
+      <img src="Cafezin.gif" width="300" style="border-radius: 20px;">
     </td>
   </tr>
 </table>
