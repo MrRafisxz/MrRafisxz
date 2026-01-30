@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=1a1a1a&height=180&section=header&text=RAPHAEL%20HENRIQUE&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=7c7c2d" width="100%" />
+  <img src="GIFNIME.gif" width="800" height="350" />
 </div>
 
 <br>
